@@ -683,12 +683,12 @@ Chef\QG\SPT\[QUARTZGALLERY]\[VAKYRIEFLIGHT]\LogoBawah2\nu_wave01.r3m 1a7e977e708
 Chef\QG\SPT\[QUARTZGALLERY]\[VAKYRIEFLIGHT]\LogoBawah2\nu_wave01.r3t d9b51a1b8085d5fec73dd3817c59025a9547698f
 Chef\QG\SPT\[QUARTZGALLERY]\[VAKYRIEFLIGHT]\LogoBawah2.spt 741fb1d349963c7e17e75dfc22db027b87bba318
 DataTable\en-gb\HVNLanguage.ini 688306b7592a7e6f265786fa08b6bc08a3aa18b2
-DataTable\en-gb\NDItem.edf 918e9c507d7160de363f83e4dbaef6a93dcc937a
-DataTable\en-gb\NDItemCash.edf 6e06b1dcaa71f0df01e22ff733dce76f8570b0de
+DataTable\en-gb\NDItem.edf 63d7df3e401a92f4f7d898b220fe8d21c6726c26
+DataTable\en-gb\NDItemCash.edf 85336b1aa5b60ed7bf799c5b3e77fcab65bb8f19
 DataTable\en-gb\resources.ini 617dc1624df074c3f7468d8a5edeb0caccbcc63e
-DataTable\Item.edf 064ded069f9d4de5b72bc4b855d5f95809435dec
-DataTable\ItemCash.edf f7f93769488d0b69050a9dde3607a4cb17dde153
-DataTable\ItemCombine.edf 9d23bb15722990c0c745cd76fc217c8ff2052a7d
+DataTable\Item.edf f6c0bb827f78c140305b3e534d6253783ee5898a
+DataTable\ItemCash.edf 22779ceabbd15c6913fd46031916cc41eaa3c24b
+DataTable\ItemCombine.edf 52f2c04b6e813c3af2d062b9a1cc5241c41e8d9f
 DataTable\ItemSetEffect.edf d42abb15bc5749e12b12e3324acdc44f6d222715
 DataTable\Resource.edf e9be10862a953a5f6b8e815e0998f360e18c904b
 DataTable\Store.edf bc836bfcc75e218d02e1a92ac5c994ed06731c16
@@ -736,7 +736,7 @@ Item\Weapon\Tex\ACCRETIA_WEAPON_GRELAUNCHER_1391.DDS b166e846153b9639b41b6d44d06
 Item\Weapon\Tex\RFSInfo.dat 790568a8bcad35c88a913f1b113ba281b280411d
 Item\Weapon\Tex\XMWEAT.RFS 01396eb4743e2e24a3fadc18e687bc7c57d21ae1
 SpriteImage\common\inventory.spr 0c36fedd91674680dd0be2c3742f3fd8886877d2
-SpriteImage\common\item.spr 56d0810ee4057c0c139afd7b7672cee002bfd7d0
+SpriteImage\common\item.spr 6240478ce7f9c8766101e9b4a5295e1666d467aa
 SpriteImage\common\system.spr 646a713ccd3a8094dbcc3d563b966c80fccdeabb
 SpriteImage\en-gb\common.spr 307137808037e8474edf063395479ae7ac58c442
 SpriteImage\launcher.png 54201693f3ef73748d26b0bbfd1a2a0bece64e1d
