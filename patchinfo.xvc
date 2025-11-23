@@ -288,7 +288,7 @@ Chef\Monster.ini c859381e9ce4743e3a4894c05980b6a6547323ee
 Chef\Npc.ini 197e0873aa789e941e0933ab93e08e514ed3bfcf
 Chef\Particle.ini 20044a4deb974f749f28618bd6b5f433637f1a10
 Chef\PatternList.txt 178cb57c581d1c84647efac1ed41cfe59f7f59d9
-DataTable\Character.edf 541418b4daff3b5d12d8cf5e405eaf7448cde7da
+DataTable\Character.edf 200106afcb4bc0578ed8024703ce7e54b16a9f1e
 DataTable\en-gb\discord.ini b8d1274ef78473f7fa6333d504ca8fd0459e03f2
 DataTable\en-gb\HVNLanguage.ini 688306b7592a7e6f265786fa08b6bc08a3aa18b2
 DataTable\en-gb\NDCharacter.edf 8d05b63203e1408a3a1a0f7229b7e82c36b3ba9e
@@ -299,7 +299,7 @@ DataTable\en-gb\NDLanguage.edf afcff56806d249efc833cc86b57c7a2e46c233b1
 DataTable\en-gb\NDMap.edf c3cd2c42b8473fad1e7294e9f24867a6d104f5ec
 DataTable\en-gb\NDStore.edf a08442c9bd4340e2c0c74eb98050ac4df3908793
 DataTable\en-gb\resources.ini 617dc1624df074c3f7468d8a5edeb0caccbcc63e
-DataTable\Item.edf ffa1bc5523d8b195e661143a0937bea1c3b46d84
+DataTable\Item.edf 9db6b576f0c7f827ef265d62d7491a8e00a444ad
 DataTable\ItemCash.edf fa0fce36b859ea97d7ff5044efa71b1d4d33e666
 DataTable\ItemCombine.edf 8cf5d3ed187ed43a397835c075312ccf55d60a85
 DataTable\ItemSetEffect.edf d42abb15bc5749e12b12e3324acdc44f6d222715
