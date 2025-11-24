@@ -5,7 +5,7 @@ Chef\Npc.ini 197e0873aa789e941e0933ab93e08e514ed3bfcf
 Chef\Particle.ini 20044a4deb974f749f28618bd6b5f433637f1a10
 Chef\PatternList.txt 178cb57c581d1c84647efac1ed41cfe59f7f59d9
 DataTable\Character.edf 120e8cd9b0fad6fd1018bd895adf3169b1c39ce6
-DataTable\en-gb\NDEventShip.edf f4dee178014f79c1f5a7c86650dfc345be42b9d6
+DataTable\en-gb\NDEventShip.edf 071310bccabd20998db50a3a36c4984c5438a105
 DataTable\en-gb\resources.ini 311b816005810b7bf98f16c49429d078631a1770
 DataTable\Item.edf fc7ae26a12d4b997bcb431d163dca77ed5dd2623
 DataTable\Quest.edf 2903b43cc73b3e036136c4a23ea218aa414f7663
