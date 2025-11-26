@@ -9,10 +9,11 @@ DataTable\en-gb\NDCharacter.edf 1a2702683501c66caed84f60b07e267d73dc1bc2
 DataTable\en-gb\NDEventShip.edf 071310bccabd20998db50a3a36c4984c5438a105
 DataTable\en-gb\NDItem.edf 0762d138cf9e3fb991125a56c4ebecbeabd780e9
 DataTable\en-gb\NDItemCash.edf a668b627c8aeba25cb1b10f729b8de0ec8c8658c
+DataTable\en-gb\NDMap.edf d283cecb61f781731e9e0f9c5045f24dc149965d
 DataTable\en-gb\NDQuest.edf e08aefa81f55ec9eea6e89a06f16deaefad387c4
 DataTable\en-gb\NDStore.edf 56ce2b958e9a555ebc371d7c57c044632a584c63
 DataTable\en-gb\resources.ini 311b816005810b7bf98f16c49429d078631a1770
-DataTable\Item.edf 3d04a8440987a678429fa444dfdf6a2b55bce4f8
+DataTable\Item.edf 05d9d176e5be499aa0ea18f956700038414c3c72
 DataTable\ItemCash.edf 6b9f3bbd3fa89eed2ca036782a287ef78b400beb
 DataTable\ItemCombine.edf 46da3af5cec34ac71c53fa9e57ac8e47203b8be5
 DataTable\ItemTimer.edf de3baed808f684f8a500c09eff42cdb7540d7c9a
