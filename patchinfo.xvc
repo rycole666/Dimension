@@ -1,3 +1,6 @@
+Character\Animus\Ani\RFSInfo.dat c754025722e15439dfaacd6f7a7970514ea40d9c
+Character\Animus\Mesh\RFSInfo.dat ac40849a44b31fb6785017378653ef21be652f5f
+Character\Animus\Tex\RFSInfo.dat 90f7e04b3ff24e88e9f651b7c84cb3e7ec348dae
 Chef\EffectFileList.txt 210b92b116f0cc3060d8913378fa178fb441959a
 Chef\ItemEffectList.txt 14fdd030dc8b74b1e1438fbcd5141fe2088f70e5
 Chef\Npc.ini fb8994471c6cf501521f13b4b0dc070e9a56d1cd
@@ -11,6 +14,7 @@ Chef\QG\SPT\WEAPON_XMAS\Star_Sparkle.spt ff33a4442939df5d406ba8bdf9f2dba1313b624
 Chef\QG\SPT\WEAPON_XMAS\Star_Super1.spt 1de3359ae7fb9ccf1562e39a65e414acf2c81d0f
 Chef\QG\SPT\WEAPON_XMAS\Star_Super2.spt 674e582f4836b5809246a5cbd4141c3bd34f454f
 Chef\QG\SPT\WEAPON_XMAS\Star_Super3.spt befd99aa480874d907310219dcbdcc94e24eff16
+Chef\recall.ini d9573e2eaa9346abda498191ec52713fb9c01db6
 Chef\Unit.ini 057b2488a4e8ec16f711fd2ef850264c5d957073
 DataTable\Character.edf bcd68231bfeb52d939d954a07c9089d153579657
 DataTable\en-gb\ChatCommand.ini 5ac2c9a4e78708e258f066cd53ee0c155eb1b0b2
@@ -51,7 +55,7 @@ DataTable\ItemSetEffect.edf cb8a4a5fee95e1220e9ad72b4cc0bb54ad9a12c3
 DataTable\ItemTimer.edf 0874ab474abeb327d481d64f2e49239db2837387
 DataTable\Map.edf 6d40ec0337a39dea4a5f1b3123370474e41fb434
 DataTable\Quest.edf 11a01df89a87e3f1afe28bec08c4e1fa0a7f46c4
-DataTable\Resource.edf 33237e50f212a5940b5d6a5f8c01fd412cf5df7c
+DataTable\Resource.edf 838447429a69a9f4370f0c18cf5591aa995fa603
 DataTable\SkillForce.edf 87f0e3cd7ddd8d1e0523a4f187b485beccf13831
 DataTable\Store.edf afca9b314a695add0ac8d4670fe38e4347f8696c
 DataTable\Taiwan_Language_Pack\ChatCommand.ini 5ac2c9a4e78708e258f066cd53ee0c155eb1b0b2
