@@ -791,6 +791,9 @@ Item\Weapon\Tex\QG_CHRIST_WEAPON.dds 99e45cece7e24832c8b1a4b9b15f81e8a2bc9236
 Item\Weapon\Tex\QG_XMAS_BOW1.dds cf7e354534f488cc7d7bad5e54828c33a5efa457
 Item\Weapon\Tex\QG_XMAS_BOW2.dds e858db5439652df31508a39ef1bf8da79fef9b34
 Item\Weapon\Tex\QG_XMAS_LAUNCHER.dds ec973ae933784290fb8e8b7fb12043d9acbf46fe
+Map\bastiellar_lotron\bastiellar_lotron.r3m 95598b1a32ed0105a96dfae7c977d5a09afbb6d2
+Map\bastiellar_lotron\bastiellar_lotron.r3t c67d24ec088a627c65dcd0951f1e5b607a31ee10
+Map\bastiellar_lotron\bastiellar_lotron.r3x 952fd8715bcde09f8a1ae63a6dcaee18443a11d8
 Map\lobby\lobby.ebp 8da5f3eef79c48722d0149629befd3405fdaf888
 Map\lobby\lobby.r3m 2d11c45c2affc704fa7d2ba4ed08288c579cef3d
 Map\lobby\lobby.r3x 695e91ae5bcd2d611b0ca43de865d9583e1436c4
@@ -823,3 +826,4 @@ Map\Sette\Sette.r3x e09efbe827fc300a7b84e1934736fa9c83d48946
 RF_Online.bin ac26b45d8a0a57ae48de11e9f5d9bdfa6aa0a28a
 SpriteImage\common\item.spr 30feaaa64ad7f55de6f9a6f079a4f99fde9bf716
 SpriteImage\common\main.spr 193404adccb282c4bf644322f4c499d0519b14c2
+SpriteImage\common\Map\bastiellar_lotron.spr a16fffef1118ceaf8bfc3a62fc5902197f3103fd
