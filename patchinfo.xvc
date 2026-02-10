@@ -190,7 +190,7 @@ DataTable\en-gb\discord.ini 4fb4f1d97d0c086201164968d47bf0374b70ee34
 DataTable\en-gb\HVNLanguage.ini 5c06776291efba73d5a57c123964a64ff1725ea1
 DataTable\en-gb\NDCharacter.edf 5f9c79304a20753e35b61bc97ca6353f4590e313
 DataTable\en-gb\NDEventShip.edf 071310bccabd20998db50a3a36c4984c5438a105
-DataTable\en-gb\NDItem.edf 8da66a649038c62b6cb91df244eb048e527376b7
+DataTable\en-gb\NDItem.edf dbe97a6b2de6cc33e224f63c6958e34914b3b657
 DataTable\en-gb\NDItemCash.edf e080aedce348742c9621ef79da43512d035035a9
 DataTable\en-gb\NDLanguage.edf 4901b553f8f6b25d9694b77d63c4c4455e198c1d
 DataTable\en-gb\NDMap.edf a8bc6a84b64f533ca6848d83d6fbf0a87cf6312d
@@ -198,7 +198,7 @@ DataTable\en-gb\NDMsgEvent.edf 343684491d4700342698a5bd3ffc6dea51aab43d
 DataTable\en-gb\NDMsgMonster.edf cf64fadb58d693852e7549fd23cdda8d712a75ff
 DataTable\en-gb\NDQuest.edf 64c565c84a6d0ef4bcfe411ddb2ef5046a0de477
 DataTable\en-gb\NDSkillForce.edf 209e6b58b88645bf9c83cbc6762ef68011350348
-DataTable\en-gb\NDStore.edf 0c839608f5434e48ce2c249b61bf7ec395ec17ff
+DataTable\en-gb\NDStore.edf bef983aee93385752eec1677e89a778ff1af4472
 DataTable\en-gb\resources.ini e69103275c13cf7b26644e3a760d8c7c0860daab
 DataTable\English_Language_Pack\ChatCommand.ini d630f21337de6e705c831e4dfb9513dabd34a926
 DataTable\English_Language_Pack\Csua.txt 5f1dc210f0b06d95325c9308e1629847030346f4
